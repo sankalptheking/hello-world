@@ -1,2 +1,2 @@
 # hello-world
-Let's get= myself started with GITHUB YO!!!
+Let's get myself started with GITHUB YO!!!
